@@ -76,7 +76,6 @@ class CategoryViewController: UITableViewController {
     }
 
     //MARK: - TableView Delegate Methods
-    
         func saveCategories() {
             
             do {
